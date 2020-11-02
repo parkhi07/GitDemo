@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-07GT6MST" name="qaclickacademy.Mavenjava.AppiumTest" tests="6" failures="0" timestamp="29 Oct 2020 06:05:44 GMT" time="0.032" errors="0">
+  <testcase name="IOSApps" time="0.013" classname="qaclickacademy.Mavenjava.AppiumTest"/>
+  <testcase name="NativeAppAndroida" time="0.001" classname="qaclickacademy.Mavenjava.AppiumTest"/>
+  <testcase name="deletetwitter" time="0.001" classname="qaclickacademy.Mavenjava.RESTAPITest"/>
+  <testcase name="postJira" time="0.0" classname="qaclickacademy.Mavenjava.RESTAPITest"/>
+  <testcase name="BrowserAutomation" time="0.001" classname="qaclickacademy.Mavenjava.SeleniumTest"/>
+  <testcase name="elementsuit" time="0.0" classname="qaclickacademy.Mavenjava.SeleniumTest"/>
+</testsuite>

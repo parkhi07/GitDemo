@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="32" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()" name="IOSApps" duration-ms="13" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+        </test-method>
+        <test-method status="PASS" signature="NativeAppAndroida()" name="NativeAppAndroida" duration-ms="1" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+        </test-method>
+      </class>
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="deletetwitter()" name="deletetwitter" duration-ms="1" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+        </test-method>
+        <test-method status="PASS" signature="postJira()" name="postJira" duration-ms="0" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+        </test-method>
+      </class>
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()" name="BrowserAutomation" duration-ms="1" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+        </test-method>
+        <test-method status="PASS" signature="elementsuit()" name="elementsuit" duration-ms="0" started-at="2020-10-29T11:35:44Z" finished-at="2020-10-29T11:35:44Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
